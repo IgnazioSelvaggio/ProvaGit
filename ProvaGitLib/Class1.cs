@@ -1,6 +1,6 @@
 ﻿namespace ProvaGitLib
 {
-    public class Calc
+    public clas Calc
     {
         public static int Sum(int a, int b)
         {
