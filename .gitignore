@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProvaGitConsole/obj
+/ProvaGitLib/bin/Debug/net6.0
+/ProvaGitLib/obj
+/ProvaGitTest/bin
+/ProvaGitTest/obj
+/.vs
+/ProvaGitConsole/bin/Debug/net6.0
